@@ -1,0 +1,2 @@
+rootProject.name='MM2D3D'
+include ':app'
